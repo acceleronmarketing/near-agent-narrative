@@ -1,6 +1,6 @@
 # Private to the world. Readable by your agent.
 
-Narrative arc for near.com · November 2026
+Narrative arc for near.com · Albert Liu · November 2026
 
 ## The story
 
@@ -109,7 +109,7 @@ The review screen shows the rate, slippage and minimum received, with no cost li
 
 ## D. Blocked products lead the home screen
 
-![Funded home screen](images/01-home-funded.png)
+![Funded home screen, balances blurred](images/01-home-funded.png)
 
 After funding, the home screen still promotes "Trade perps," and the What's new banner says "Take-Two is now available." Both are blocked in Canada, and the block only shows after opening a market. The app already applies a region at the point of trade, so the home screen can use it too.
 
